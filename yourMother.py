@@ -1,1 +1,1 @@
-print("YO MAMA")
+print("not yo mama :)")
